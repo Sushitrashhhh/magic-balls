@@ -1,4 +1,4 @@
-let userName = 'Priyankar';
+let userName = '';
 
 console.log(userName ? `Hello, ${userName}!` : 'Hello!');
 
